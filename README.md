@@ -2,7 +2,6 @@
 - 👀 I’m interested in steaks
 - 🌱 I’m currently learning patience
 - 💞️ I’m looking to collaborate on Diablo 2 PlugY
-- 📫 How to reach me: boop my snoot
 
 <!---
 Moonpaw/Moonpaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
